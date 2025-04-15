@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Project Folders
+CodingChallengeSolutionsC++/C# Project/
+CodingChallengeSolutionsC++/C++ Project/
+CodingChallengeSolutionsC++/JavaScript Project/
+CodingChallengeSolutionsC++/Python Project/
+
+.vs/
